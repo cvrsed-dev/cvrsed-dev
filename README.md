@@ -7,7 +7,7 @@
 ### about
 16-year-old frontend developer, currently focused on JavaScript and working towards becoming a fullstack developer.
 
-✉️ [cvrseddev@gmail.com](mailto:cvrseddev@gmail.com)
+✉️ [cvrseddev@gmail.com](mailto:progqzx@gmail.com)
 
 ---
 
@@ -35,7 +35,7 @@
   <a href="https://discord.com/users/zxcnightbot">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark">
   </a>
-  <a href="mailto:cvrseddev@gmail.com">
+  <a href="mailto:progqzx@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark">
   </a>
 </p>
