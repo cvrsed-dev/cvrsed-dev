@@ -9,7 +9,7 @@
 
 ---
 
-### tech Stack
+### tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,git,css,html,react,typescript,postgresql&theme=dark" alt="core skills" />
