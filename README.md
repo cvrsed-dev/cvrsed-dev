@@ -7,6 +7,8 @@
 ### about
 16-year-old frontend developer, currently focused on JavaScript and working towards becoming a fullstack developer.
 
+✉️ [cvrseddev@gmail.com](mailto:cvrseddev@gmail.com)
+
 ---
 
 ### tech stack
