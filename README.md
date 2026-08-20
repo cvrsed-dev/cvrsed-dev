@@ -40,6 +40,12 @@
   </a>
 </p>
 
+### activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvrsed-dev&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
 
 <!--
 **cvrsed-dev/cvrsed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
